@@ -4,6 +4,9 @@ A clean, minimalist 2D coordinate/aspect slider node designed for [ComfyUI](http
 
 It allows you to visually select image dimensions (`width` × `height`) on an interactive grid pad without cluttering the canvas with unnecessary sliders.
 
+<img width="475" height="555" alt="image" src="https://github.com/user-attachments/assets/8e9a5875-f3cc-4a00-885a-5231adfc9ae6" />
+
+
 ## Features
 
 - **Full Nodes 2.0 Support:** Built with a custom DOM widget to prevent canvas disappearing issues in modern ComfyUI releases.
